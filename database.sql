@@ -49,7 +49,7 @@ COPY public.employees (employee_id, name, department, salary, hiredate) FROM std
 1	John Doe	IT	50000.00	2020-01-15
 2	Jane Smith	HR	55000.00	2019-08-20
 3	Michael Lee	Marketing	60000.00	2020-03-10
-4	Emily Brown	Finance	65000.00	2018-11-05
+4	Emily Brown	Finance	65000.00	2018-11-05kbydtysyrz
 5	David Wilson	IT	52000.00	2021-02-28
 \.
 
